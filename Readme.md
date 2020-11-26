@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Алексей Колбас](https://up.htmlacademy.ru/php/12/user/1207707).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Шевченко](https://htmlacademy.ru/profile/id1242631).
 
 ---
 
